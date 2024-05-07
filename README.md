@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🌐Currently learning backend and frontend development<br><br>- 📖 CS Sophomore @ University of Georgia<br><br>- 🔆First generation college student<br><br>- 💻Interested in software development</p>
+<p align="left">- 🌐Currently learning the MERN stackt<br><br>- 📖 CS Sophomore @ University of Georgia<br><br>- 🔆First generation college student<br><br>- 💻Interested in software development</p>
 
 ###
 
