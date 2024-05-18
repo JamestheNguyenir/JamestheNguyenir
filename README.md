@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🌐Currently learning the MERN stack<br><br>- 📖 CS Sophomore @ University of Georgia<br><br>- 🔆SDE @ FANFUNDR<br><br>- 💻Interested in software development </p>
+<p align="left">- 🌐Currently learning the MERN stack<br><br>- 📖 CS Sophomore @ University of Georgia<br><br>- 🔆Software Engineer @ FANFUNDR<br><br>- 💻Interested in software development </p>
 
 ###
 
