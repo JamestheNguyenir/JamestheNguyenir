@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🌐Currently learning the MERN stack<br><br>- 📖 CS Sophomore @ University of Georgia<br><br>- 🔆First Generation College Student<br><br>- 💻Interested in software development </p>
+<p align="left">- 🌐Currently learning the Django <br><br>- 📖 CS Sophomore @ University of Georgia<br><br>- 🔆First Generation College Student<br><br>- 💻Interested in software development </p>
 
 ###
 
