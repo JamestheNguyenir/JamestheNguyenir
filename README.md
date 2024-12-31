@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🌐Currently learning Django<br><br>- 📖 CS Sophomore @ University of Georgia<br><br>- 🔆First Generation College Student<br><br>- 💻Interested in software development </p>
+<p align="left">- 🌐Currently learning Machine Learning applications OF Quant Finance<br><br>- 📖 CS & Statistics @ University of Georgia<br><br>- 🔆First Generation College Student<br><br>- 💻Interested in Machine Vision </p>
 
 ###
 
