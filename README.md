@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🌐Currently learning Machine Learning applications of Quant Finance<br><br>- 📖 CS & Statistics @ University of Georgia<br><br>- 🔆First Generation College Student<br><br>- 💻Interested in Machine Vision </p>
+<p align="left">- 🌐Currently learning about Machine Learning applications in Quantitative Finance<br><br>- 📖 CS & Statistics @ University of Georgia<br><br>- 🔆First Generation College Student<br><br>- 💻Interested in Machine Vision </p>
 
 ###
 
