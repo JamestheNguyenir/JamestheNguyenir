@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🌐Currently learning about Machine Learning applications in Quantitative Finance<br><br>- 📖 CS & Statistics @ The University of Georgia<br><br>- 🔆First Generation College Student<br><br>- 💻Interested in Machine Vision </p>
+<p align="left">- 🌐Currently working as a Research Assistant at a Autonomous Vehicle Lab<br><br>- 📖 CS & Statistics @ The University of Georgia<br><br>- 🔆First Generation College Student<br><br>- 💻Learning Computer Vision</p>
 
 ###
 
