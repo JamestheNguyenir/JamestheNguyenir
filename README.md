@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🌐Currently working as a Software Engineering intern @ Florida Blue<br><br>- 📖 CS & Statistics @ The University of Georgia<br><br>- 🔆First Generation College Student<br><br>- 💻Learning Computer Vision</p>
+<p align="left">- 🌐Previous SWE intern at Florida Blue<br><br>- 📖 CS & Statistics @ The University of Georgia<br><br>- 🔆First Generation College Student<br><br>- 💻Learning Computer Vision</p>
 
 ###
 
