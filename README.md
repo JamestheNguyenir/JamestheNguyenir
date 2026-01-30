@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.ntc.edu/sites/default/files/styles/full_width_16_9/public/2021-06/software-development-specialist.jpg?itok=D8qgVwxb"  />
+  <img width="300" src="https://miro.medium.com/1*d_xNFpq9qV8x7ArZJwzPDg.jpeg" />
 </div>
 
 ###
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🌐Previous SWE intern at Florida Blue<br><br>- 📖 CS & Statistics @ The University of Georgia<br><br>- 🔆First Generation College Student<br><br>- 💻Learning Computer Vision</p>
+<p align="left">Learning CS and Math @ UGA</p>
 
 ###
 
